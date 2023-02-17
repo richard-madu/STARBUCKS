@@ -105,4 +105,5 @@ Model	Accuracy Score
 3	Naive Bayes	0.454262
 
 
-https://medium.com/@madurichard09/starbucks-capstone-project
+https://medium.com/@madurichard09/starbucks-capstone-project-cfdd4accab8b
+
