@@ -31,6 +31,8 @@ Here is the schema and explanation of each variable in the files:
 * duration (int) - time for offer to be open, in days
 * channels (list of strings)
 
+https://medium.com/@madurichard09/starbucks-capstone-project
+
 **profile.json**
 * age (int) - age of the customer 
 * became_member_on (int) - date when customer created an app account
