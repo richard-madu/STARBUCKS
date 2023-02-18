@@ -1,8 +1,10 @@
-# STARBUCKS
+# STARBUCKS CAPSTONE PROJECT
 
 In this project I would be exploring the starbuck and created a machine learning model that predict theh offer a person recieves from starbucks and if the individual complete their orders. There are 3 dataset to be explored in this project. The data in this project was downloaded here. The result of this project would give insight to people that want to get into the business of shortlet to understand how prices are determined and factors that affect it
 
 # ACKNOWLEDGE
+
+I want to acknowledge with profound gratitude all the writers cited in this work and Udacity for this opportunity to learn
 
 ## DATA CREDIT
 
